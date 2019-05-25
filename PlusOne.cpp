@@ -30,6 +30,7 @@ int main(){
 //		sum += *i;
 //	}
 //	
+//is it done?
 	cout<<endl;
 	cout<<"sum is: "<<sum;
 
